@@ -1,0 +1,13 @@
+{
+  "name": "Stop Watch",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "Images/logo.png"
+  },
+  "permissions": ["alarms"],
+  "icons": {
+    "128": "Images/logo.png"
+  }
+}
